@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">
-    Mongodb CRUD Spring 
+    MongoDB CRUD  
   </h1>
 </div>
 
@@ -21,6 +21,11 @@
 
 Entre os dias 10 e 17 de agosto de 2024, realizei a atividade prática de Desenvolvimento Web do módulo de Programação Web Back-End I (Java), referente a Pós Graduação em Desenvolvimento Web Full Stack que estou cursando na **_[Unipê](https://www.unipe.edu.br/)_**. Desenvolvi uma aplicação com CRUD em Java usando o framework Spring Boot, com foco no banco de dados NoSQL MongoDB. Realizando operações completas de CRUD, incluindo a criação, leitura e exclusão de dados, seguindo as orientações do **_[Prof. Rodrigo Fujioka](https://www.linkedin.com/in/rfujioka/)_**.
 
+<p align="center">
+  <img width="568" height="308" src="https://github.com/user-attachments/assets/a460f3a9-8199-4625-9c19-2432872c8d46">
+</p><br />
+
+
 > - Integração do MongoDB ao projeto Spring Boot,
 >
 > - Conexões eficientes
@@ -32,6 +37,10 @@ Entre os dias 10 e 17 de agosto de 2024, realizei a atividade prática de Desenv
 > - Implementação de operações CRUD
 >
 > - Versionamento do repositório com Git e Github
+
+<p align="left">
+  <img width="500" height="320" src="https://github.com/user-attachments/assets/fafbceda-1d65-4086-a92d-41e2794b42ce">
+</p>
 
 # Tecnologias Utilizadas
 
@@ -45,6 +54,11 @@ Entre os dias 10 e 17 de agosto de 2024, realizei a atividade prática de Desenv
 ## Documentação
 - Postman
 - Swagger
+
+<p align="left">
+  <img width="500" height="320" src="https://github.com/user-attachments/assets/84fdc32f-165f-4ac3-801c-53fe330694ec">
+</p>
+
 
 # Links Úteis
 
