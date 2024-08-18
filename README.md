@@ -26,7 +26,7 @@ Entre os dias 10 e 17 de agosto de 2024, realizei a atividade prática de Desenv
 </p><br />
 
 
-> - Integração do MongoDB ao projeto Spring Boot,
+> - Integração do MongoDB ao projeto Spring Boot
 >
 > - Conexões eficientes
 >
