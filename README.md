@@ -1,10 +1,9 @@
 <div>
   <h1 align="center">
-    Mongodbcrud CRUD Spring 
+    Mongodb CRUD Spring 
   </h1>
 </div>
 
-[![Licence](https://img.shields.io/github/license/willfelixd/mongodb-crud-spring?style=for-the-badge)](./LICENSE)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -22,10 +21,6 @@
 
 Entre os dias 10 e 17 de agosto de 2024, realizei a atividade prática de Desenvolvimento Web do módulo de Programação Web Back-End I (Java), referente a Pós Graduação em Desenvolvimento Web Full Stack que estou cursando na **_[Unipê](https://www.unipe.edu.br/)_**. Desenvolvi uma aplicação com CRUD em Java usando o framework Spring Boot, com foco no banco de dados NoSQL MongoDB. Realizando operações completas de CRUD, incluindo a criação, leitura e exclusão de dados, seguindo as orientações do **_[Prof. Rodrigo Fujioka](https://www.linkedin.com/in/rfujioka/)_**.
 
-<p align="center">
-  <img width="568" height="308" src="https://github.com/willfelixd/mongodb-crud-spring/blob/main/src/assets/postman_mongobd.gif">
-</p><br />
-
 > - Integração do MongoDB ao projeto Spring Boot,
 >
 > - Conexões eficientes
@@ -37,10 +32,6 @@ Entre os dias 10 e 17 de agosto de 2024, realizei a atividade prática de Desenv
 > - Implementação de operações CRUD
 >
 > - Versionamento do repositório com Git e Github
-
-<p align="left">
-  <img width="500" height="320" src="https://github.com/willfelixd/mongodb-crud-spring/blob/main/src/assets/mongodb.PNG">
-</p>
 
 # Tecnologias Utilizadas
 
@@ -54,10 +45,6 @@ Entre os dias 10 e 17 de agosto de 2024, realizei a atividade prática de Desenv
 ## Documentação
 - Postman
 - Swagger
-
-<p align="left">
-  <img width="500" height="320" src="https://github.com/willfelixd/mongodb-crud-spring/blob/main/src/assets/swagger.PNG">
-</p>
 
 # Links Úteis
 
